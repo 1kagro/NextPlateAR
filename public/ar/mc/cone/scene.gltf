@@ -1,0 +1,491 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 740,
+      "max": [
+        3.27297043800354,
+        16.7220516204834,
+        3.3224029541015625
+      ],
+      "min": [
+        -3.785562038421631,
+        7.153573989868164,
+        -3.5013203620910645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 8880,
+      "componentType": 5126,
+      "count": 740,
+      "max": [
+        0.9947627186775208,
+        0.9990312457084656,
+        0.9792120456695557
+      ],
+      "min": [
+        -0.9802232980728149,
+        -0.997586190700531,
+        -0.9999184012413025
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 740,
+      "max": [
+        0.9997557401657104,
+        0.997115969657898,
+        0.9999585747718811,
+        1.0
+      ],
+      "min": [
+        -0.9995226263999939,
+        -0.9997555613517761,
+        -0.9890952110290527,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 740,
+      "max": [
+        0.9988592863082886,
+        0.9957373738288879
+      ],
+      "min": [
+        0.0008360445499420166,
+        0.4070393741130829
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 3930,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 17760,
+      "componentType": 5126,
+      "count": 429,
+      "max": [
+        3.022620677947998,
+        8.293216705322266,
+        3.022620677947998
+      ],
+      "min": [
+        -3.022620677947998,
+        4.6246490478515625,
+        -3.022620439529419
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 22908,
+      "componentType": 5126,
+      "count": 429,
+      "max": [
+        0.9994129538536072,
+        1.0,
+        0.9994129538536072
+      ],
+      "min": [
+        -0.9994129538536072,
+        -0.8965182304382324,
+        -0.9994129538536072
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 11840,
+      "componentType": 5126,
+      "count": 429,
+      "max": [
+        0.9999999403953552,
+        0.8902596831321716,
+        1.0,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.8902494311332703,
+        -0.9999768733978271,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5920,
+      "componentType": 5126,
+      "count": 429,
+      "max": [
+        0.8417435884475708,
+        0.4188530147075653
+      ],
+      "min": [
+        0.014446540735661983,
+        0.19324009120464325
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 15720,
+      "componentType": 5125,
+      "count": 1344,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 28056,
+      "componentType": 5126,
+      "count": 123,
+      "max": [
+        2.040574312210083,
+        4.641117095947266,
+        2.040574312210083
+      ],
+      "min": [
+        -2.040574312210083,
+        0.07496809959411621,
+        -2.0405735969543457
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 29532,
+      "componentType": 5126,
+      "count": 123,
+      "max": [
+        0.9974227547645569,
+        1.0,
+        0.9974227547645569
+      ],
+      "min": [
+        -0.9974227547645569,
+        -1.0,
+        -0.9974227547645569
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 18704,
+      "componentType": 5126,
+      "count": 123,
+      "max": [
+        1.0,
+        0.01423368789255619,
+        0.9999911785125732,
+        1.0
+      ],
+      "min": [
+        -0.9999911189079285,
+        -0.014233746565878391,
+        -0.9998982548713684,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 9352,
+      "componentType": 5126,
+      "count": 123,
+      "max": [
+        0.9899114966392517,
+        0.24128465354442596
+      ],
+      "min": [
+        0.00920037366449833,
+        0.007560363970696926
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 21096,
+      "componentType": 5125,
+      "count": 288,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "xtremelifestylx (https://sketchfab.com/xtremelifestylx)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/mc-donalds-vanilla-cone-5b051827dc6d47458ddbc81200405d50",
+      "title": "Mc Donalds Vanilla Cone"
+    },
+    "generator": "Sketchfab-12.66.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 22248,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 10336,
+      "byteOffset": 22248,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 31008,
+      "byteOffset": 32584,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20672,
+      "byteOffset": 63592,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 84264,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/lambert1_baseColor.png"
+    },
+    {
+      "uri": "textures/lambert1_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/lambert1_emissive.png"
+    },
+    {
+      "uri": "textures/lambert1_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "emissiveFactor": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "emissiveTexture": {
+        "index": 2
+      },
+      "name": "lambert1",
+      "normalTexture": {
+        "index": 3
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Ice_lambert1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cone_lambert1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 6,
+            "POSITION": 5,
+            "TANGENT": 7,
+            "TEXCOORD_0": 8
+          },
+          "indices": 9,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Cone1_lambert1_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 11,
+            "POSITION": 10,
+            "TANGENT": 12,
+            "TEXCOORD_0": 13
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "55e7afca9f3249ed84c42aa137109562.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        6,
+        8
+      ],
+      "name": "IceCream"
+    },
+    {
+      "children": [
+        5
+      ],
+      "name": "Ice"
+    },
+    {
+      "mesh": 0,
+      "name": "Ice_lambert1_0"
+    },
+    {
+      "children": [
+        7
+      ],
+      "name": "Cone"
+    },
+    {
+      "mesh": 1,
+      "name": "Cone_lambert1_0"
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "Cone1"
+    },
+    {
+      "mesh": 2,
+      "name": "Cone1_lambert1_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

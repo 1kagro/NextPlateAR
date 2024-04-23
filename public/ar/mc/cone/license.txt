@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mc Donalds Vanilla Cone
+* source:	https://sketchfab.com/3d-models/mc-donalds-vanilla-cone-5b051827dc6d47458ddbc81200405d50
+* author:	xtremelifestylx (https://sketchfab.com/xtremelifestylx)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mc Donalds Vanilla Cone" (https://sketchfab.com/3d-models/mc-donalds-vanilla-cone-5b051827dc6d47458ddbc81200405d50) by xtremelifestylx (https://sketchfab.com/xtremelifestylx) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
