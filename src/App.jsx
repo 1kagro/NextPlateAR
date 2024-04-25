@@ -33,9 +33,9 @@ const restaurants = [
     distance: 2.5,
     deliveryCost: 4.75,
     menu: [
-      { id: 1, name: "Hamburguesa", price: 5.00, description: "Una deliciosa hamburguesa con queso", ar: true, modelUrl: "/ar/mc/hamburguer/realistic", marker: "/mc/"},
-      { id: 2, name: "Papas fritas", price: 3.50, description: "Un acompañamiento perfecto", ar: true, modelUrl: "/ar/mc/f fries/", marker: "/mc/"},
-      { id: 3, name: "Coca-Cola", price: 2.00, description: "Refresco de cola, tamaño mediano", ar: true, modelUrl: "/ar/mc/coca/", marker: "/mc/"},
+      { id: 1, name: "Hamburguesa", price: 5.00, description: "Una deliciosa hamburguesa con queso", ar: true, modelUrl: "/ar/mc/hamburguer/realistic", marker: "/mc/",scale:"2 2 2",position:"-0.556 -0.763 0.108",rotation:"10.000 0.500 0" },
+      { id: 2, name: "Papas fritas", price: 3.50, description: "Un acompañamiento perfecto", ar: true, modelUrl: "/ar/mc/f fries/", marker: "/mc/,",scale:"0.100 -0.100 0.100",position:"0 0 0",rotation:"0 0 0"},
+      { id: 3, name: "Coca-Cola", price: 2.00, description: "Refresco de cola, tamaño mediano", ar: true, modelUrl: "/ar/mc/coca/", marker: "/mc/",scale:"2 2 2",position:"-0.139 -1.121 -0.521",rotation:"10.000 0.500 0"},
     ]
   }
 ];
