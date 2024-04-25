@@ -25,7 +25,7 @@ function RestaurantDetail({ restaurants }) {
         <div>
             {isViewingAR ? (
                 <>
-                    <ARView modelUrl={selectedDish.modelUrl} />
+                    <ARView dish={selectedDish} />
                     <button onClick={handleBackToList}>Volver al Menú</button>
                 </>
             ) : (

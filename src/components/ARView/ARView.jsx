@@ -1,17 +1,18 @@
 // import 'aframe';
 // import 'ar.js';
 
-function ARView({ modelUrl }) {
-    console.log(`${modelUrl}/scene.gltf`);
+function ARView({dish}) {
+    console.log(dish.id)
+    console.log(`${dish.modelUrl}/scene.gltf`);
     return (
         <a-scene>
             <a-marker preset="hiro">
                 <a-entity position="0 0.1 0" scale="2 2 2">
                     <a-entity
-                        gltf-model={`${modelUrl}/scene.gltf`}
-                        scale="0.5 0.5 0.5  "
-                        position=""
-                        rotation="-90 0 0"
+                        gltf-model={`${dish.modelUrl}/scene.gltf`}
+                        scale = {`${dish.scale}`}
+                        position=  {`${dish.position}`}
+                        rotation=  {`${dish.rotation}`}
                     ></a-entity>
                 </a-entity>
                 
